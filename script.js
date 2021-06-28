@@ -1,4 +1,4 @@
-var x = -1;
+var x = -1.1;
 var sum = 0;
 var dx = 1/10000000;
 
