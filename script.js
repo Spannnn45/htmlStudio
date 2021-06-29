@@ -9,5 +9,5 @@ while (x<1) {
 }
 
 var pi = document.getElementById("pi");
-pi.innerHTML = sum
+pi.innerHTML = .1 + .2;
 
